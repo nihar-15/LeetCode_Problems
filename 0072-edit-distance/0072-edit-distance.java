@@ -1,12 +1,11 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-        int m = word1.length();
-        int n = word2.length();
-        int dp[][] = new int[m][n];
+       
+        int dp[][] = new int[ word1.length()][word2.length()];
         for(int a[] : dp){
             Arrays.fill(a ,-1);
         }
-    return  func(word1, word2, m-1 , n-1,dp);
+    return  func(word1, word2,  word1.length()-1 , word2.length()-1,dp);
     }
       int  func(String s1 , String s2 , int i , int j , int dp[][] ){
             if(i<0){
