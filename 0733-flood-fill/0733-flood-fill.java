@@ -1,6 +1,6 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int ans[][] = image;
+       /* int ans[][] = image;
         int m = image.length;
         int n = image[0].length;
         int dr[] = {0 ,-1 ,0, 1};
@@ -24,8 +24,28 @@ class Solution {
             }
         }
         return ans;
-        
+
+        */
+          
+        if(image[sr][sc] == color) return image;
+       
+        fill(image, sr, sc, color, image[sr][sc]);
+        return image;
     }
+    public void fill(int[][] image, int sr, int sc, int color, int cur) {
+        
+        if(sr < 0 || sr >= image.length || sc < 0 || sc >= image[0].length) return;
+       
+        if(cur != image[sr][sc]) return;
+        
+        image[sr][sc] = color;
+  
+        fill(image, sr-1, sc, color, cur);
+        fill(image, sr+1, sc, color, cur);
+        fill(image, sr, sc-1, color, cur);
+        fill(image, sr, sc+1, color, cur);
+    }
+
     boolean isSafe(int i ,int j , int m , int n){
         if(i<0 || i>=m|| j<0|| j>= n) return false;
 
