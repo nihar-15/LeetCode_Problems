@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
+| [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
 # Greedy
 |  |
@@ -28,7 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 # Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
