@@ -55,3 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
+# Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1317-monthly-transactions-i) |
