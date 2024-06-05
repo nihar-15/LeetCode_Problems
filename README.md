@@ -59,3 +59,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1317-monthly-transactions-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1317-monthly-transactions-i) |
+| [1801-average-time-of-process-per-machine](https://github.com/nihar-15/LeetCode_Problems/tree/master/1801-average-time-of-process-per-machine) |
