@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
@@ -50,3 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
