@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/nihar-15/LeetCode_Problems/tree/master/0176-second-highest-salary) |
 | [1317-monthly-transactions-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1317-monthly-transactions-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/nihar-15/LeetCode_Problems/tree/master/1801-average-time-of-process-per-machine) |
 # Data Stream
