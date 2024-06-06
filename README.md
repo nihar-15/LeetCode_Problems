@@ -38,14 +38,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
 # Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
 # Hash Table
 |  |
 | ------- |
@@ -64,3 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1317-monthly-transactions-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1317-monthly-transactions-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/nihar-15/LeetCode_Problems/tree/master/1801-average-time-of-process-per-machine) |
+# Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
