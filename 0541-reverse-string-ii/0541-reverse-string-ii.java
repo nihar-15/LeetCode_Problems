@@ -6,7 +6,7 @@ class Solution {
             if(i+k-1 <= n-1){
                 reverseK(i,i+k-1,str);
             }else{
-				//for fewer than k characters left (edge case)
+			
                 reverseK(i,n-1,str);
             }
         }
