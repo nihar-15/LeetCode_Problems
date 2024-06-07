@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
+| [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
 # Greedy
 |  |
 | ------- |
@@ -40,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
 # Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -74,3 +77,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
+# Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
