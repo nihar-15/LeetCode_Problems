@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 # Stack
 |  |
@@ -86,3 +88,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
