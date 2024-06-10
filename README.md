@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
 | [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
 # Greedy
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
 # Stack
 |  |
 | ------- |
@@ -100,3 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
