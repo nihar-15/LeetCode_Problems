@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Greedy
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Stack
 |  |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Quickselect
 |  |
