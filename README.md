@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nihar-15/LeetCode_Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2350-find-closest-number-to-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/2350-find-closest-number-to-zero) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Greedy
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # String Matching
 |  |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Quickselect
 |  |
