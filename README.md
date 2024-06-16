@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/nihar-15/LeetCode_Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/nihar-15/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/nihar-15/LeetCode_Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/nihar-15/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/nihar-15/LeetCode_Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/nihar-15/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/nihar-15/LeetCode_Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/nihar-15/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
