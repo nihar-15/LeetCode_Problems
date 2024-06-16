@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nihar-15/LeetCode_Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2350-find-closest-number-to-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2636-maximum-subsequence-score](https://github.com/nihar-15/LeetCode_Problems/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Greedy
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nihar-15/LeetCode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nihar-15/LeetCode_Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2636-maximum-subsequence-score](https://github.com/nihar-15/LeetCode_Problems/tree/master/2636-maximum-subsequence-score) |
 # Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nihar-15/LeetCode_Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2636-maximum-subsequence-score](https://github.com/nihar-15/LeetCode_Problems/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Stack
 |  |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2636-maximum-subsequence-score](https://github.com/nihar-15/LeetCode_Problems/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
 # Quickselect
 |  |
