@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/nihar-15/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Simulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/nihar-15/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Database
 |  |
 | ------- |
