@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String Matching
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
 # Database
