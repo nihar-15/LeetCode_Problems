@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/nihar-15/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
+| [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nihar-15/LeetCode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1217-relative-sort-array) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
+| [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nihar-15/LeetCode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nihar-15/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Database
@@ -173,3 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+# Math
+|  |
+| ------- |
+| [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
