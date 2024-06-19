@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1666-make-the-string-great](https://github.com/nihar-15/LeetCode_Problems/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nihar-15/LeetCode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/nihar-15/LeetCode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nihar-15/LeetCode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Database
 |  |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nihar-15/LeetCode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1217-relative-sort-array) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/nihar-15/LeetCode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 # Binary Search
 |  |
 | ------- |
