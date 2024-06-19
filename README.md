@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nihar-15/LeetCode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nihar-15/LeetCode_Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/nihar-15/LeetCode_Problems/tree/master/0853-most-profit-assigning-work) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Sliding Window
 |  |
 | ------- |
