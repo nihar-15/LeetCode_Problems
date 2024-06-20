@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/nihar-15/LeetCode_Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
+| [0981-delete-columns-to-make-sorted](https://github.com/nihar-15/LeetCode_Problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nihar-15/LeetCode_Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/nihar-15/LeetCode_Problems/tree/master/1137-height-checker) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
+| [0981-delete-columns-to-make-sorted](https://github.com/nihar-15/LeetCode_Problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [1666-make-the-string-great](https://github.com/nihar-15/LeetCode_Problems/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nihar-15/LeetCode_Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nihar-15/LeetCode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
