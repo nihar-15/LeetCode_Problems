@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0621-task-scheduler](https://github.com/nihar-15/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/nihar-15/LeetCode_Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String Matching
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/nihar-15/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/nihar-15/LeetCode_Problems/tree/master/0071-simplify-path) |
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
@@ -205,3 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
+# Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
