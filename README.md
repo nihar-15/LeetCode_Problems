@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1582-design-browser-history](https://github.com/nihar-15/LeetCode_Problems/tree/master/1582-design-browser-history) |
 # Doubly-Linked List
 |  |
