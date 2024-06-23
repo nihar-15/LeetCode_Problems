@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/nihar-15/LeetCode_Problems/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/nihar-15/LeetCode_Problems/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/nihar-15/LeetCode_Problems/tree/master/0071-simplify-path) |
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nihar-15/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
