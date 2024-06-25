@@ -211,3 +211,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+# Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
