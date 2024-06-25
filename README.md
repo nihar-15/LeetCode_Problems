@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3226-minimum-number-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/3226-minimum-number-game) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/nihar-15/LeetCode_Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/nihar-15/LeetCode_Problems/tree/master/0071-simplify-path) |
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nihar-15/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
 # Backtracking
 |  |
