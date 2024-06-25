@@ -15,6 +15,7 @@
  */
 class Solution {
     public TreeNode bstToGst(TreeNode root) {
+        /*
          ArrayList<Integer> arr = new ArrayList<>();
         
       
@@ -29,8 +30,20 @@ class Solution {
         inOrderTraversal2(arr, new int[]{0}, root);
         
         return root; 
+        */
+        int sum[] = new int[1];
+       solve(root , sum);
+       return root;
     }
-    
+      void solve(TreeNode root , int sum[]){
+        if(root == null){
+            return ;
+        }
+        solve(root.right , sum);
+        sum[0]  += root.val;
+        root.val = sum[0];
+         solve(root.left , sum);
+      }
     void inOrderTraversal(ArrayList<Integer> arr, TreeNode root) {
         if (root == null) {
             return;
