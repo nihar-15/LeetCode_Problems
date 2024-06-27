@@ -223,24 +223,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
