@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/nihar-15/LeetCode_Problems/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/nihar-15/LeetCode_Problems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/nihar-15/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihar-15/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/nihar-15/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/nihar-15/LeetCode_Problems/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/nihar-15/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0443-string-compression](https://github.com/nihar-15/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/nihar-15/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
+| [0224-basic-calculator](https://github.com/nihar-15/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0935-orderly-queue](https://github.com/nihar-15/LeetCode_Problems/tree/master/0935-orderly-queue) |
 # Backtracking
 |  |
@@ -245,3 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
+# Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/nihar-15/LeetCode_Problems/tree/master/0224-basic-calculator) |
