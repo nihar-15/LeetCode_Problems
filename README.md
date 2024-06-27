@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
+| [0120-triangle](https://github.com/nihar-15/LeetCode_Problems/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/nihar-15/LeetCode_Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
@@ -256,3 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/nihar-15/LeetCode_Problems/tree/master/0224-basic-calculator) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/nihar-15/LeetCode_Problems/tree/master/0120-triangle) |
