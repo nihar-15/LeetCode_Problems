@@ -4,7 +4,7 @@ func maximumImportance(n int, roads [][]int) int64 {
      degree[ roads[i][0]]++
      degree[roads[i][1]]++
    }
-   sort.Ints(degree)
+   sort.Ints(degree[:])
    var val int64 =1
    var ans int64 = 0
    for i:=0;i<len(degree);i++{
