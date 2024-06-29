@@ -1,33 +1,38 @@
-class Solution {
-    public List<List<Integer>> getAncestors(int n, int[][] edges) {
-         List<List<Integer>> res = new ArrayList<>();
-         for(int i =0;i < n ;i++){
-            res.add(new ArrayList<>());
-         }
-          ArrayList<Integer>[] graph = new ArrayList[n];
-        for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
-        }
-        for(int edge[] : edges){
-            graph[edge[0]].add(edge[1]);
-        }
-         for (int i = 0; i < n; i++) {
-            dfs(graph, i, i, res, new boolean[n]);
-        }
-        for(int i =0;i < n ;i ++){
-            res.get(i).sort(Integer :: compareTo);
+import java.util.*;
 
-        }
-        return res;
-    }
-   
-    private  void dfs(ArrayList<Integer>[] graph  , int parent , int cur , List<List<Integer>> res , boolean []visit ){
-        visit[cur] = true;
-        for(int dest : graph[cur]){
-            if(!visit[dest]){
-                res.get(dest).add(parent);
-                dfs(graph, parent, dest, res, visit);
+class Solution {
+    private void dfs(List<List<Integer>> graph, int src, List<Integer> temp, boolean[] vis) {
+        vis[src] = true;
+        for (int parent : graph.get(src)) {
+            if (!vis[parent]) {
+                temp.add(parent);
+                dfs(graph, parent, temp, vis);
             }
         }
+    }
+
+    public List<List<Integer>> getAncestors(int n, int[][] edges) {
+       
+        List<List<Integer>> graph = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            graph.add(new ArrayList<>());
+        }
+        for (int[] edge : edges) {
+            int from = edge[0];
+            int to = edge[1];
+            graph.get(to).add(from); 
+        }
+
+      
+        List<List<Integer>> output = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            List<Integer> temp = new ArrayList<>();
+            boolean[] vis = new boolean[n];
+            dfs(graph, i, temp, vis);
+            Collections.sort(temp);
+            output.add(temp);
+        }
+
+        return output;
     }
 }
