@@ -13,26 +13,53 @@ class Solution {
 
     public List<List<Integer>> getAncestors(int n, int[][] edges) {
        
-        List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
-        }
-        for (int[] edge : edges) {
-            int from = edge[0];
-            int to = edge[1];
-            graph.get(to).add(from); 
-        }
+          
+        List<TreeSet<Integer>> ancestorList = new ArrayList();
+        List<List<Integer>> list = new ArrayList();
 
-      
-        List<List<Integer>> output = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            List<Integer> temp = new ArrayList<>();
-            boolean[] vis = new boolean[n];
-            dfs(graph, i, temp, vis);
-            Collections.sort(temp);
-            output.add(temp);
+        Queue<Integer> queue = new LinkedList();
+        
+        int degree[] = new int[n];
+        ArrayList<Integer>[] connections = new ArrayList[n];
+        
+        for(int i = 0;i<n;i++){
+            connections[i] = new ArrayList<Integer>();
+            ancestorList.add(new TreeSet<Integer>());
         }
-
-        return output;
+        
+        for(int edge[]: edges){
+           connections[edge[0]].add(edge[1]);
+           degree[edge[1]]++;
+        }
+    
+        for(int i = 0;i<n;i++){
+            if(degree[i] == 0){
+                queue.add(i);
+            }
+        }
+        
+     
+        while(!queue.isEmpty()){
+            
+            int currNode = queue.poll();
+            for(int node : connections[currNode]){
+                ancestorList.get(node).addAll(new TreeSet(ancestorList.get(currNode)));
+                ancestorList.get(node).add(currNode);
+                
+                degree[node]--;
+                if(degree[node] == 0){
+                    queue.add(node);
+                }
+            }
+            
+        }
+        
+        
+        for(TreeSet<Integer> set : ancestorList){
+            list.add(new ArrayList<Integer>(set));
+        }
+        
+        return list;
+        
     }
 }
