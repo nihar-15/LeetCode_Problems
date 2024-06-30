@@ -304,10 +304,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
