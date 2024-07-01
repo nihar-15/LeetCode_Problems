@@ -1,14 +1,14 @@
 func threeConsecutiveOdds(arr []int) bool {
-  count := 0
-  for i:= 0 ; i< len(arr)   ; i++{
-    if(arr[i]%2 != 0){
-        count ++
-    }else{
-        count = 0
+   count := 0
+    for _, num := range arr {
+        if num % 2 != 0 {
+            count++
+            if count == 3 {
+                return true
+            }
+        } else {
+            count = 0
+        }
     }
-    if(count == 3){
-        return true
-    }
-  }
-  return false
+    return false
 }
