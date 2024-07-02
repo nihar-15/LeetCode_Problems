@@ -1,49 +1,25 @@
+import java.util.Arrays;
+
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        	Arrays.sort(nums1);
-			Arrays.sort(nums2);
+        int[] arr = new int[1001];  // To count frequencies of elements in nums1
+        int[] result = new int[1001];  // To store the result
 
-		int m=nums1.length;
+        // Count the frequencies of each number in nums1
+        for (int num : nums1) {
+            arr[num]++;
+        }
 
-		int n=nums2.length;
+        int ctr = 0;  // Counter for the result array
+        // Traverse nums2 to find common elements
+        for (int num : nums2) {
+            if (arr[num] > 0) {
+                result[ctr++] = num;
+                arr[num]--;
+            }
+        }
 
-		int i=0;
-
-		int j=0;
-
-		ArrayList<Integer> list=new ArrayList<>();
-
-		while(i<nums1.length&&j<nums2.length){
-
-			if(nums1[i]==nums2[j]){
-
-				
-
-				list.add(nums1[i]);
-
-				
-
-				i++;
-
-				j++;
-
-			}else if(nums1[i]<nums2[j]){
-
-				i++;
-
-			}else
-
-			j++;
-
-		}
-
-		int arr[]=new int[list.size()];
-		for(int k=0;k<list.size();k++){
-
-			arr[k]=list.get(k);
-
-		}
-return arr;
-		
+        // Return only the filled portion of the result array
+        return Arrays.copyOfRange(result, 0, ctr);
     }
 }
