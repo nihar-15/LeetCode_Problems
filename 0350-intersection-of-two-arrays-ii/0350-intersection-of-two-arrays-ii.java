@@ -38,9 +38,6 @@ class Solution {
 		}
 
 		int arr[]=new int[list.size()];
-
-		
-
 		for(int k=0;k<list.size();k++){
 
 			arr[k]=list.get(k);
