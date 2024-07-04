@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1293-three-consecutive-odds](https://github.com/nihar-15/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
@@ -331,11 +332,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -381,4 +384,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
+## Backtracking
+|  |
+| ------- |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
