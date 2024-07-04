@@ -398,4 +398,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nihar-15/LeetCode_Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
