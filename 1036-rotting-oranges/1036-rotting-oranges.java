@@ -1,61 +1,64 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<Pair> q = new LinkedList<>();
-        int ans=0;
-        int m = grid.length;
+          int m = grid.length;
         int n = grid[0].length;
-        int vis[][] = new int[m][n];
-        for(int i  =0;i<m ;i++){
-            for(int j =0;j<n;j++){
-                if(grid[i][j] == 2){
-                    q.offer(new Pair(i , j , 0));
+        boolean vis[][] = new boolean[m][n];
+        Queue<Pair> q = new LinkedList<>();
+        
+        // Enqueue all initially rotten oranges
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 2) {
+                    q.offer(new Pair(i, j, 0));
+                    vis[i][j] = true;
                 }
             }
         }
-        int dr[] = {-1, 0 , 1,0};
-        int dc[] = {0 , 1 , 0 ,-1};
-        while(!q.isEmpty()){
-            Pair  cur = q.poll();
-            int row = cur.row ;
-            int col = cur.col;
+        
+        int dr[] = {0, -1, 0, 1};
+        int dc[] = {-1, 0, 1, 0};
+        int maxTime = 0;
+        
+        while (!q.isEmpty()) {
+            Pair cur = q.poll();
+            int row = cur.r;
+            int col = cur.c;
             int time = cur.time;
-            ans = Math.max(ans , time);
-            for(int i =0;i<4;i++){        
-                    int newRow = row +dr[i];
-                    int newCol = col +dc[i];
-
-                    if(isSafe(newRow , newCol , m , n) && grid[newRow][newCol] == 1 && vis[newRow][newCol] != 2){
-                        q.add( new Pair(newRow , newCol , time+1));
-                        vis[newRow][newCol] = 2;
-                    }
-                
-            }
-
-        }
-
-        for(int i =0;i<m;i++){
-        for(int j =0;j<n;j++){
-            if(grid[i][j] == 1 && vis[i][j] != 2){
-                return -1;
+            maxTime = Math.max(maxTime, time);
+            
+            for (int i = 0; i < 4; i++) {
+                int r = row + dr[i];
+                int c = col + dc[i];
+                if (isSafe(r, c, m, n) && !vis[r][c] && grid[r][c] == 1) {
+                    q.offer(new Pair(r, c, time + 1));
+                    vis[r][c] = true;
+                    grid[r][c] = 2; // Mark the orange as rotten
+                }
             }
         }
+        
+        // Check if there's any fresh orange left
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    return -1;
+                }
+            }
         }
-        return ans;
+        
+        return maxTime;
     }
-
-    private boolean isSafe(int i , int j , int m , int n){
-        if(i>= m || i<0|| j>=n || j<0){
-            return false;
-        }
-        return true;
+    
+    private boolean isSafe(int i, int j, int m, int n) {
+        return i >= 0 && i < m && j >= 0 && j < n;
     }
 }
 
-class Pair{
-    int row , col , time;
-    Pair(int r , int c , int t){
-        row = r;
-        col =c;
-        time =t;
+class Pair {
+    int r, c, time;
+    Pair(int i, int j, int t) {
+        r = i;
+        c = j;
+        time = t;
     }
 }
