@@ -1,63 +1,40 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-       /* ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        int m= isConnected.length;
-        int n = isConnected[0].length;
-        for(int i = 0;i<m;i++){
+     List<List<Integer>> adj = new ArrayList<>();
+     int n = isConnected.length;
+        for(int i =0;i < n;i++ ){
             adj.add(new ArrayList<>());
         }
-        int cnt = 0;
-        for(int i =0;i<m;i++){
-            for(int j =0;j<n;j++){
-                 if(isConnected[i][j] == 1 && i != j){
+        for(int i =0 ; i< n;i++){
+            for( int j =0 ; j < n; j++){
+                if(i != j && isConnected[i][j] == 1){
                     adj.get(i).add(j);
-                    adj.get(j).add(i);
-                 }
-            }
-        }
-        int vis[] = new int[m];
-        for(int i =0;i<m;i++){
-            if(vis[i] == 0 ){
-                  dfs(adj , i , vis);
-                  cnt++;
-            }
-        }
-        return cnt;
-        */
-        int n = isConnected.length;
-        int numberOfComponents = 0;
-        boolean[] visit = new boolean[n];
-        for(int i =0;i<n ;i++){
-            if(visit[i] == false){
-                 numberOfComponents++;
-                bfs(i , isConnected ,visit);
-            }
-        }
-        
-            return  numberOfComponents ;
-    }
-     private void bfs(int node , int[][] isConnected , boolean[] visit){
-         Queue<Integer> q = new LinkedList<>();
-        q.offer(node);
-        visit[node] = true;
-        while(!q.isEmpty()){
-            node = q.poll();
-            for(int i =0;i<isConnected.length;i++){
-                if(isConnected[node][i] == 1 && ! visit[i]){
-                    q.offer(i);
-                    visit[i] = true;
                 }
             }
         }
+  for (int i = 0; i < adj.size(); i++) {
+            System.out.print(i + ": ");
+            for (Integer neighbor : adj.get(i)) {
+                System.out.print(neighbor + " ");
+            }
+            System.out.println();
+        }
+     int count =0 ;
+     boolean isVisited[] = new boolean[n];
+     for(int i =0; i<n ;i++){
+        if(!isVisited[i]){
+            dfs(adj , i , isVisited);
+            count++;
+        }
      }
-
-    
-    private void  dfs(ArrayList<ArrayList<Integer>> adj , int node, int vis[]){
-        vis[node] = 1;
-        for(int neighbour : adj.get(node)){
-            if(vis[neighbour] == 0){
-            dfs(adj , neighbour , vis);
+        return count;
+    }
+    void dfs( List<List<Integer>> adj , int i ,  boolean isVisited[]){
+        isVisited[i] = true;
+        for(Integer it : adj.get(i)){
+            if(!isVisited[it]){
+                dfs(adj , it , isVisited);
             }
         }
     }
-    }
+}
