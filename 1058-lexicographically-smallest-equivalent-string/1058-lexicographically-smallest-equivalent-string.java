@@ -1,18 +1,17 @@
 class Solution {
     public String smallestEquivalentString(String s1, String s2, String baseStr) {
-         int n = s1.length();
-         int m = baseStr.length();
+        
 
          List<List<Character>> adj = new ArrayList<>(26);
          for(int i =0 ; i<26 ; i++){
             adj.add(new ArrayList<>());
          }
-         for(int i =0; i <n ;i++){
+         for(int i =0; i <s1.length();i++){
             adj.get(s1.charAt(i) -'a').add(s2.charAt(i));
             adj.get(s2.charAt(i) -'a').add(s1.charAt(i));
          }
          String result = "";
-         for(int i =0 ; i< m ;i++){
+         for(int i =0 ; i< baseStr.length() ;i++){
             boolean isVisited[] = new boolean[26];
             result += dfs(adj , baseStr.charAt(i) , isVisited);
          }
