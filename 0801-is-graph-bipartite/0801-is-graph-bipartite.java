@@ -1,30 +1,34 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        int v = graph.length;
-        int vis[] = new int[v+1];
-        Arrays.fill(vis , -1);
+        int m = graph.length;
 
-      for(int i =0;i<v ;i++){
-          if(vis[i] == -1){
-                if (dfs(graph, vis , i , 0) == false){
+        int[] isColoured = new int[m];
+        Arrays.fill(isColoured, -1);
+
+        for (int i = 0; i < m; i++) {
+            if (isColoured[i] == -1) {
+                if (!dfs(i, isColoured, graph, 0)) {
                     return false;
                 }
-          }
-      }
-        return true;
-    }
-    boolean dfs(int graph[][] ,int vis[] , int parent , int colour ){
-        vis[parent] =  colour;
-      System.out.println("Node "+ parent +" "+colour);
-        for(Integer node : graph[parent]){
-            if(vis[node] == -1 ){
-                if(dfs(graph , vis , node , 1 - colour ) == false){
-                    return false;
-                }
-                }else if(vis[node] == vis[parent]){
-                    return false;
             }
         }
+
+        return true;
+    }
+
+    private boolean dfs(int i, int[] isColoured, int[][] graph, int colour) {
+        isColoured[i] = colour;
+
+        for (int node : graph[i]) {
+            if (isColoured[node] == -1) {
+                if (!dfs(node, isColoured, graph, 1 - colour)) {
+                    return false;
+                }
+            } else if (isColoured[node] == isColoured[i]) {
+                return false;
+            }
+        }
+
         return true;
     }
 }
