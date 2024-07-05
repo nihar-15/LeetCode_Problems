@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Database
