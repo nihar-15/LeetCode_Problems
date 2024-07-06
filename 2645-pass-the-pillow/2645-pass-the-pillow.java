@@ -1,20 +1,11 @@
 class Solution {
     public int passThePillow(int n, int time) {
-        int pos = 0;
-        int dir = 1;
-        for(int i = 0;i<time;i++){
-            if(dir == 1){
-                if(pos == n-1){
-                    dir =-1;
-                }
-                pos += dir;
-            }else{
-                if(pos == 0){
-                    dir = 1;
-                }
-                pos += dir;
-            }
+  int cycleLength = (n - 1) * 2;
+        int cyclePosition = time % cycleLength;
+        if (cyclePosition < n) {
+            return cyclePosition + 1;
+        } else {
+            return cycleLength - cyclePosition + 1;
         }
-        return pos +1;
     }
 }
