@@ -19,7 +19,8 @@ class Solution {
           }
           int timeTakenByChild = dfs(adj , child , cur , hasApple);
           if(timeTakenByChild> 0 || hasApple.get(child) == true){
-            time += timeTakenByChild + 2;
+            time += timeTakenByChild ;
+            time+=2;;
           }
         }
         return time;
