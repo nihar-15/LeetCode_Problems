@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -442,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
