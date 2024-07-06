@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nihar-15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nihar-15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nihar-15/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0213-house-robber-ii) |
@@ -452,4 +454,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nihar-15/LeetCode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
