@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/nihar-15/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nihar-15/LeetCode_Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nihar-15/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0213-house-robber-ii) |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
