@@ -6,15 +6,16 @@ class Solution {
          return func(0 , n , s);
     }
     int func(int i , int n , String s){
+         if(dp[i] != -1){
+            return dp[i];
+        }
         if( i == n){
-            return 1;
+            return dp[i] = 1;
         }
         if(s.charAt(i) == '0'){
             return 0;
         }
-        if(dp[i] != -1){
-            return dp[i];
-        }
+       
         int result = func(i+1 , n , s);
         if(i+1 < n){
             if(s.charAt(i) == '1' || s.charAt(i) == '2' && s.charAt(i+1) <= '6'){
