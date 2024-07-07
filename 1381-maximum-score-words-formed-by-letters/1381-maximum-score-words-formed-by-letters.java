@@ -1,6 +1,6 @@
 class Solution {
     public int maxScoreWords(String[] words, char[] letters, int[] score) {
-        List<List<String>> list = new ArrayList<>();
+       
         int freq[] = new int[26];
         for(int i = 0; i < letters.length; i++){
             freq[letters[i] - 'a']++;
