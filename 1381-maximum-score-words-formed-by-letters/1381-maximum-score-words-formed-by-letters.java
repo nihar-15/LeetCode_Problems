@@ -6,10 +6,10 @@ class Solution {
             freq[letters[i] - 'a']++;
         }
         int maxScore = 0 ;
-        return func(list, 0, new ArrayList<>(), freq, words, score, maxScore);
+        return func( 0, new ArrayList<>(), freq, words, score, maxScore);
     }
 
-    int func(List<List<String>> list, int idx, List<String> cur, int freq[], String[] words, int score[], int maxScore) {
+    int func(int idx, List<String> cur, int freq[], String[] words, int score[], int maxScore) {
         if(idx == words.length){
             int currentScore = 0;
             for(int i = 0; i < cur.size(); i++){
@@ -23,12 +23,12 @@ class Solution {
         if(isFeasible(words[idx], freq)){
             cur.add(words[idx]);
             reduce(freq, words[idx]);
-            maxScore = func(list, idx + 1, cur, freq, words, score, maxScore);
+            maxScore = func( idx + 1, cur, freq, words, score, maxScore);
             cur.remove(cur.size() - 1);
             add(freq, words[idx]);
         }
 
-        return func(list, idx + 1, cur, freq, words, score, maxScore);
+        return func( idx + 1, cur, freq, words, score, maxScore);
     }
 
     boolean isFeasible(String word, int freq[]) {
