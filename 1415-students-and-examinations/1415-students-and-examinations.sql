@@ -6,4 +6,4 @@ LEFT JOIN Examinations
 ON Students.student_id = Examinations.student_id
 AND Subjects.subject_name = Examinations.subject_name
 GROUP BY Students.student_id, Subjects.subject_name
-ORDER BY student_id ASC, subject_name ASC
+ORDER BY student_id ASC;
