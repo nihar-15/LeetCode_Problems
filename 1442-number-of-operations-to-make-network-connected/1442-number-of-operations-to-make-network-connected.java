@@ -1,34 +1,32 @@
 class Solution {
-    public int makeConnected(int n, int[][] connections) {
-        int e = connections.length;
-        if (e < n-1){
-            return -1;
-        }
-        List<List<Integer>> adj = new ArrayList<>();
-        for(int i =0 ; i< n ; i++){
-            adj.add( new ArrayList<>());
-        }
-        boolean isVisited[] = new boolean[n];
-        int connectedComponents = 0;
-        for(int[]edge : connections){
-            adj.get(edge[0]).add(edge[1]);
-             adj.get(edge[1]).add(edge[0]);
-        }
-        for(int i =0 ; i< n ; i++){
-            if(!isVisited[i]){
-                dfs(adj , i , isVisited);
-                connectedComponents ++;
-            }
-        }
-        return connectedComponents - 1;
+    private int[] parent;
+    public void union(int i , int j){
+        int irep = find(i);
+        int jrep = find(j);
+        parent[irep] = jrep;
     }
-
-    void dfs( List<List<Integer>> adj , int i , boolean[] isVisited){
-        isVisited[i] = true;
-        for(int a : adj.get(i)){
-            if(!isVisited[a]){
-                dfs(adj , a , isVisited);
+    public int find(int i ){
+        if(parent[i] == i){
+            return i ;
+        }
+        parent[i] = find(parent[i]);
+        return parent[i];
+    }
+    public int makeConnected(int n, int[][] connections) {
+        if(connections.length < n-1 ){
+            return -1 ;
+        }
+        parent = new int[n];
+        for(int i = 0 ; i < n ; i++){
+            parent[i] = i;
+        }
+        int connected = n;
+        for(int edge[] : connections){
+            if(find(edge[0]) != find(edge[1])){
+                union(edge[0] , edge[1]);
+                connected --;
             }
         }
+        return connected -1;
     }
 }
