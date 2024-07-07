@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1293-three-consecutive-odds](https://github.com/nihar-15/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
@@ -366,12 +367,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Linked List
 |  |
@@ -433,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Union Find
 |  |
 | ------- |
@@ -463,4 +468,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nihar-15/LeetCode_Problems/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
