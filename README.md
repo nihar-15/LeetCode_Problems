@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/nihar-15/LeetCode_Problems/tree/master/0577-employee-bonus) |
 | [0626-exchange-seats](https://github.com/nihar-15/LeetCode_Problems/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/nihar-15/LeetCode_Problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/nihar-15/LeetCode_Problems/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1773-percentage-of-users-attended-a-contest) |
