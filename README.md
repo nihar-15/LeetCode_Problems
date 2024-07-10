@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Array
 |  |
