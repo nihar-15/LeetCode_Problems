@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/nihar-15/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
+| [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/nihar-15/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 ## Stack
 |  |
 | ------- |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nihar-15/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/nihar-15/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
