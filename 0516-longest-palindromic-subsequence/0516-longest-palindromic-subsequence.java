@@ -1,6 +1,6 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
-         String reversed = new StringBuilder(s).reverse().toString();
+      String reversed = new StringBuilder(s).reverse().toString();
         
       return lcs(s, reversed);
     }
