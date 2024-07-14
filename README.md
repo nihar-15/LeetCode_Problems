@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nihar-15/LeetCode_Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/nihar-15/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Linked List
 |  |
