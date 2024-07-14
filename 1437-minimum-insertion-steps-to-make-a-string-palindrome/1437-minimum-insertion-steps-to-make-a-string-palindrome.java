@@ -8,7 +8,7 @@ class Solution {
       return lcs(s, reversed);
     }
     public int lcs(String text1 , String text2){
-          int n = text1.length();
+     int n = text1.length();
      int m = text2.length();
      int dp[][] = new int[n][m];
      for(int a[] :dp){
