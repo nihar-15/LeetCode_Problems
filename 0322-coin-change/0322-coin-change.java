@@ -1,43 +1,37 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        
-    
-      return fun3(coins,amount);
+        int dp[][] = new int[amount+1][coins.length+1];
+        for(int d[] :dp){
+            Arrays.fill(d , -1);
+        }
+        int ans = func(coins , 0 , amount, dp);
+        if(ans >= Integer.MAX_VALUE){
+            return -1;
+        }
+        return ans;
     }
-    
-    
-    static int fun3(int d[],int sum){
-        int n=d.length;
-        int dp[][]=new int[n][sum+1];
-        
-        for(int a[]:dp){
-            Arrays.fill(a, -1);
+    int func(int coins[] , int idx , int amount , int dp[][]){
+       
+        if(amount == 0){
+            return 0;
         }
-        
-        for(int i=0;i<=sum;i++){
-            if(i%d[0]==0){
-                dp[0][i]=i/d[0];
-            }else{
-                 dp[0][i]=(int) 1e9;
-            } 
+        if(dp[amount][idx] != -1 ){
+            return dp[amount][idx];
         }
-        
-        for(int ind=1;ind<n;ind++){
-            for(int target=0;target<=sum;target++){
-                int notTaken=0+dp[ind-1][target];
-                int taken =Integer.MAX_VALUE;
-                if(d[ind]<=target){
-                    taken =1+dp[ind][target-d[ind]];
-                }
-                
-                dp[ind][target]=Math.min(taken,notTaken);
+         if(idx >= coins.length){
+            return Integer.MAX_VALUE;
+        }
+        int take = Integer.MAX_VALUE;
+        // If we can take the current coin
+        if (coins[idx] <= amount) {
+            int res = func(coins, idx, amount - coins[idx] , dp);
+            // If res is not max value, it means we found a solution
+            if (res != Integer.MAX_VALUE) {
+                take = 1 + res;
             }
         }
-         int ans = dp[n - 1][sum];
+        int notTake = func(coins ,idx+1 , amount, dp);
 
-        // If it's not possible to achieve the target sum, return -1
-        if (ans >= (int) Math.pow(10, 9))
-            return -1;
-        return ans;
+        return dp[amount][idx] = Math.min(take , notTake);
     }
 }
