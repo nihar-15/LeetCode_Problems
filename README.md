@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/nihar-15/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nihar-15/LeetCode_Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -503,10 +505,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Backtracking
 |  |
 | ------- |
