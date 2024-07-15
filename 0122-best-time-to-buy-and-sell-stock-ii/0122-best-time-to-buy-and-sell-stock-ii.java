@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int dp[][] = new int[2][prices.length];
+        int dp[][] = new int[prices.length][2];
         for(int d[] : dp){
             Arrays.fill(d , -1);
         }
@@ -11,14 +11,14 @@ class Solution {
             return 0;
         }
         int profit =0  ; 
-        if(dp[canBuy][idx] != -1){
-            return dp[canBuy][idx];
+        if(dp[idx][canBuy] != -1){
+            return dp[idx][canBuy];
         }
         if( canBuy == 1){
             profit = Math.max(-prices[idx] + func(prices , idx+1 , 0 , dp) , 0+ func(prices , idx+1 , 1, dp));
         }else{
             profit = Math.max(prices[idx] + func(prices , idx+1 , 1 , dp) , func(prices , idx+1 , 0 , dp));
         }
-        return dp[canBuy][idx] = profit;
+        return dp[idx][canBuy] = profit;
     }
 }
