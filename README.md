@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/nihar-15/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/nihar-15/LeetCode_Problems/tree/master/1803-average-waiting-time) |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
