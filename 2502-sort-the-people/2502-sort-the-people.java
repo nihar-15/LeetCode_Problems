@@ -1,6 +1,19 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-         int n = names.length;
+         Map<Integer, String> map = new HashMap<>();
+        for (int i = 0; i < names.length; i++) {
+            map.put(heights[i], names[i]);
+        }        
+        Arrays.sort(heights);
+        String[] result = new String[heights.length];
+        int index = 0;
+        for (int i = heights.length - 1; i >= 0; i--) {
+            result[index] = map.get(heights[i]);
+            index++;
+        }
+        return result;
+        
+        /* int n = names.length;
         List<Person> people = new ArrayList<>();
         
         for (int i = 0; i < n; i++) {
@@ -33,5 +46,6 @@ class Solution {
             // Sort by height in descending order
             return Integer.compare(other.height, this.height);
         }
+        */
     }
 }
