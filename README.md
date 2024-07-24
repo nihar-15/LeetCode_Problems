@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -633,5 +636,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
