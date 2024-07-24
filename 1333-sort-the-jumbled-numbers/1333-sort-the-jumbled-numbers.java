@@ -10,7 +10,7 @@ class Solution {
             int val = func(number, map);
             list.add(new Pair(number, val));
         }
-        Collections.sort(list);
+        Collections.sort(list,(a,b)->a.val-b.val);
         
         int[] sortedNums = new int[nums.length];
         for (int i = 0; i < list.size(); i++) {
@@ -29,7 +29,7 @@ class Solution {
     }
 }
     
-    class Pair implements Comparable<Pair> {
+    class Pair {
         String str;
         int val;
         
@@ -38,9 +38,9 @@ class Solution {
             this.val = val;
         }
         
-        @Override
-        public int compareTo(Pair other) {
-            return Integer.compare(this.val, other.val);
-        }
+        // @Override
+        // public int compareTo(Pair other) {
+        //     return Integer.compare(this.val, other.val);
+        // }
 
     }
