@@ -14,30 +14,36 @@
  * }
  */
 class Solution {
-     int i;
+    private TreeNode prev = null;
+    private TreeNode first = null;
+    private TreeNode  middle = null;
+    private TreeNode last = null;
     public void recoverTree(TreeNode root) {
-        ArrayList<Integer> list = new ArrayList<>();
-        inOrder(root , list);
-        Collections.sort(list);
-        i =0;
-        func(root , list);
-
-    }
-    void inOrder(TreeNode root , ArrayList<Integer> list){
-        if(root == null){
-            return ;
+        inOrder(root);
+        if(last != null){
+        int temp = last.val;
+        last.val = first.val;
+        first.val = temp;
+        }else{
+        int temp = middle.val;
+        middle.val = first.val;
+        first.val = temp;
         }
-        inOrder(root.left , list);
-        list.add(root.val);
-        inOrder(root.right , list);
     }
-     void func(TreeNode root , ArrayList<Integer> list){
-        if(root == null){
-            return ;
+    void inOrder(TreeNode root){
+      if(root == null){
+        return;
+      }
+      inOrder(root.left);
+      if(prev != null && prev.val > root.val){
+        if(first == null){
+            first = prev;
+            middle = root;
+        }else{
+            last = root;
         }
-        func(root.left , list);
-        root.val = list.get(i);
-        i++;
-        func(root.right , list);
-     }
+      }
+      prev = root;
+      inOrder(root.right);
+    }
 }
