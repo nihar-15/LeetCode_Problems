@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/nihar-15/LeetCode_Problems/tree/master/1642-water-bottles) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/nihar-15/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/nihar-15/LeetCode_Problems/tree/master/0091-decode-ways) |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
