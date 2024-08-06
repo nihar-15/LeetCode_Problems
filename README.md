@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Graph
 |  |
 | ------- |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/nihar-15/LeetCode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/nihar-15/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/nihar-15/LeetCode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## String
 |  |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/nihar-15/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
