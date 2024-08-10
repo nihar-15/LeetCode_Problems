@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nihar-15/LeetCode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
+| [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nihar-15/LeetCode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
+| [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nihar-15/LeetCode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nihar-15/LeetCode_Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -658,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nihar-15/LeetCode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nihar-15/LeetCode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -690,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
+| [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
