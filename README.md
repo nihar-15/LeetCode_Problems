@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0494-target-sum) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
