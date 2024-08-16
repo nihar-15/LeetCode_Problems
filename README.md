@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar-15/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Queue
 |  |
