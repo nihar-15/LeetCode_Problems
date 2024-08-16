@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/nihar-15/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar-15/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar-15/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
