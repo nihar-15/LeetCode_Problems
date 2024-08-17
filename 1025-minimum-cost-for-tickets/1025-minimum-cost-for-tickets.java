@@ -2,11 +2,26 @@ class Solution {
     public int mincostTickets(int[] days, int[] costs) {
      Set<Integer> set = new HashSet<>();
      int dp[] = new int[367];
-     Arrays.fill(dp , -1);
+    
      for(int d : days){
         set.add(d);
      }
-     return func(days , costs , 0 , set , dp);
+     for(int i =1 ; i <= 366 ; i++){
+        if(!set.contains(i)){
+            dp[i] = dp[i-1];
+            continue;
+        }
+         int oneDayCost = dp[i - 1] + costs[0];
+         int sevenDayCost = dp[Math.max(0, i - 7)] + costs[1];
+         int thirtyDayCost = dp[Math.max(0, i - 30)] + costs[2];
+
+               
+         dp[i] = Math.min(oneDayCost, Math.min(sevenDayCost, thirtyDayCost));
+     }
+     
+
+     return dp[366];
+     //return func(days , costs , 0 , set , dp);
      
     }
     int func(int days[] , int cost[] , int i , Set<Integer> set , int dp[]){
