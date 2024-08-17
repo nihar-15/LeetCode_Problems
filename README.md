@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1025-minimum-cost-for-tickets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nihar-15/LeetCode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0815-champagne-tower](https://github.com/nihar-15/LeetCode_Problems/tree/master/0815-champagne-tower) |
 | [0943-sum-of-subarray-minimums](https://github.com/nihar-15/LeetCode_Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
