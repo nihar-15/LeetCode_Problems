@@ -722,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0180-consecutive-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nihar-15/LeetCode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/nihar-15/LeetCode_Problems/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/nihar-15/LeetCode_Problems/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/nihar-15/LeetCode_Problems/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/nihar-15/LeetCode_Problems/tree/master/0626-exchange-seats) |
