@@ -1,36 +1,26 @@
 class Solution {
-  int[][] t = new int[1001][1001];
-    
-    private int solve(int currCountA, int pasteCountA, int n) {
-        if (currCountA == n) {
+    public int minSteps(int n) {
+         if (n == 1) {
+            return 0;
+        }
+        return func(1 , n, 1) +1 ;
+    }
+    int func(int current , int target , int last){
+      
+        if (current == target) {
             return 0;
         }
 
-        if (currCountA > n) {
-            return 1000;
+        if (current > target) {
+            return target;
         }
 
-        if (t[currCountA][pasteCountA] != -1) {
-            return t[currCountA][pasteCountA];
+        int copy = Integer.MAX_VALUE;
+        int paste = 1+  func(current + last , target , last);
+        if(current != last){
+            copy = 1 + func(current , target , current);
         }
 
-        int copyPaste = 1 + 1 + solve(currCountA + currCountA, currCountA, n);
-
-        int paste = 1 + solve(currCountA + pasteCountA, pasteCountA, n);
-
-        return t[currCountA][pasteCountA] = Math.min(copyPaste, paste);
-    }
-
-    public int minSteps(int n) {
-        if (n == 1)
-            return 0; 
-        
-        for (int i = 0; i < t.length; i++) {
-            for (int j = 0; j < t[i].length; j++) {
-                t[i][j] = -1;
-            }
-        }
-
-        return 1 + solve(1, 1, n);
+        return Math.min(copy , paste) ;
     }
 }
