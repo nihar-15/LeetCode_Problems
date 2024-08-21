@@ -743,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-find-followers-count](https://github.com/nihar-15/LeetCode_Problems/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/nihar-15/LeetCode_Problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/nihar-15/LeetCode_Problems/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/nihar-15/LeetCode_Problems/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/nihar-15/LeetCode_Problems/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nihar-15/LeetCode_Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
