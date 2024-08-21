@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nihar-15/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/nihar-15/LeetCode_Problems/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/nihar-15/LeetCode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/0909-stone-game) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0518-coin-change-ii) |
@@ -788,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/nihar-15/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Shortest Path
@@ -873,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
