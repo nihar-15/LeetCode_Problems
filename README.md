@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/nihar-15/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
