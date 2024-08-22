@@ -25,7 +25,7 @@ class Solution {
           }
           totalDiff += diff;
         }
-        if(totalDiff != 0 || k == 0){
+        if(totalDiff != 0){
             return -1;
         }
         return positiveDiff / k ;
