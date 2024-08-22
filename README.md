@@ -764,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1942-primary-department-for-each-employee](https://github.com/nihar-15/LeetCode_Problems/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/nihar-15/LeetCode_Problems/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/nihar-15/LeetCode_Problems/tree/master/2041-the-latest-login-in-2020) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/nihar-15/LeetCode_Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nihar-15/LeetCode_Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
