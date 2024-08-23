@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/nihar-15/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/nihar-15/LeetCode_Problems/tree/master/0941-sort-array-by-parity) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0907-koko-eating-bananas](https://github.com/nihar-15/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Queue
