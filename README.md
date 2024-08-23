@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/nihar-15/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/nihar-15/LeetCode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/nihar-15/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/nihar-15/LeetCode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Queue
