@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/nihar-15/LeetCode_Problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/nihar-15/LeetCode_Problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/nihar-15/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nihar-15/LeetCode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nihar-15/LeetCode_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Queue
