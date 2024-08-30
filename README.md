@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nihar-15/LeetCode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/nihar-15/LeetCode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/nihar-15/LeetCode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
+| [2803-modify-graph-edge-weights](https://github.com/nihar-15/LeetCode_Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -878,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/nihar-15/LeetCode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nihar-15/LeetCode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/nihar-15/LeetCode_Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Search Tree
 |  |
