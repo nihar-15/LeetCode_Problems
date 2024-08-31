@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1961-maximum-ice-cream-bars](https://github.com/nihar-15/LeetCode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nihar-15/LeetCode_Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1961-maximum-ice-cream-bars](https://github.com/nihar-15/LeetCode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nihar-15/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/nihar-15/LeetCode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2035-count-sub-islands](https://github.com/nihar-15/LeetCode_Problems/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/nihar-15/LeetCode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
