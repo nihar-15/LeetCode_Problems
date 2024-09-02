@@ -505,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/nihar-15/LeetCode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nihar-15/LeetCode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -860,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/nihar-15/LeetCode_Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2472-build-a-matrix-with-conditions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Memoization
 |  |
