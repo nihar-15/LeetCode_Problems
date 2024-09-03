@@ -571,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nihar-15/LeetCode_Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/nihar-15/LeetCode_Problems/tree/master/0650-2-keys-keyboard) |
+| [0866-rectangle-overlap](https://github.com/nihar-15/LeetCode_Problems/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
@@ -977,4 +978,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/nihar-15/LeetCode_Problems/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
