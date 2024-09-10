@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/nihar-15/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/3540-hash-divided-string) |
 ## Stack
 |  |
 | ------- |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/3540-hash-divided-string) |
 ## Bit Manipulation
 |  |
 | ------- |
