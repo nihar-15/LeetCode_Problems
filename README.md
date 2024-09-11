@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
