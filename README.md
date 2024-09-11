@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1731-even-odd-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1731-even-odd-tree) |
 | [2035-count-sub-islands](https://github.com/nihar-15/LeetCode_Problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nihar-15/LeetCode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
@@ -797,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1731-even-odd-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nihar-15/LeetCode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3486-count-the-number-of-good-nodes](https://github.com/nihar-15/LeetCode_Problems/tree/master/3486-count-the-number-of-good-nodes) |
@@ -823,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1731-even-odd-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nihar-15/LeetCode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Backtracking
