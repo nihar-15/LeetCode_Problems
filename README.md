@@ -525,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/nihar-15/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/nihar-15/LeetCode_Problems/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/nihar-15/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Memoization
 |  |
 | ------- |
