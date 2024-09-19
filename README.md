@@ -894,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/nihar-15/LeetCode_Problems/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nihar-15/LeetCode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/nihar-15/LeetCode_Problems/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/nihar-15/LeetCode_Problems/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/nihar-15/LeetCode_Problems/tree/master/0627-swap-salary) |
