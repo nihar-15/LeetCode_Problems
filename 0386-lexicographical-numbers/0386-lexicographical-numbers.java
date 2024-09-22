@@ -1,14 +1,23 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        List<String> a = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        for(int i =1 ; i <= n; i++){
-           a.add(Integer.toString(i));
-        }
-        Collections.sort(a);
-        for(String num : a){
-            ans.add(Integer.parseInt(num));
-        }
-  return ans;
+     List<Integer> ans = new ArrayList<>();
+     for(int i = 1; i <= 9 ; i++){
+          func(i, n , ans);
+     }
+     
+     return ans;
     }
+    public void func(int curr , int n , List<Integer> ans){
+        if(curr > n){
+            return ;
+        }
+        ans.add(curr);
+        for (int nextDigit = 0; nextDigit <= 9; nextDigit++) {
+            int nextNum = curr * 10 + nextDigit;
+            if(nextNum > n){
+                return;
+            }
+            func(nextNum , n , ans);
+    }
+}
 }
