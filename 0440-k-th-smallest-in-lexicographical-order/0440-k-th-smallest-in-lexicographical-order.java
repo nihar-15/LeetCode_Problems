@@ -19,7 +19,7 @@ class Solution {
             int count = countNumbers(curr, curr + 1, n);
             if (count <= k) {
                 curr++;
-                k -= count; // Skipping the elements under the current prefix tree
+                k -= count; 
             } else {
                 curr *= 10;
                 k -= 1;
