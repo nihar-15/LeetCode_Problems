@@ -620,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0043-multiply-strings) |
+| [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/nihar-15/LeetCode_Problems/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
@@ -680,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/nihar-15/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
