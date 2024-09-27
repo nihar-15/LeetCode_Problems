@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar-15/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
@@ -729,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/nihar-15/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nihar-15/LeetCode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -755,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nihar-15/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1037,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nihar-15/LeetCode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0729-my-calendar-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nihar-15/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
 ## Iterator
@@ -1103,8 +1107,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
