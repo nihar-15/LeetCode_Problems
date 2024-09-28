@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/nihar-15/LeetCode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/nihar-15/LeetCode_Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/nihar-15/LeetCode_Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -767,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nihar-15/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
