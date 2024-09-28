@@ -633,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/nihar-15/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nihar-15/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/nihar-15/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/nihar-15/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihar-15/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/nihar-15/LeetCode_Problems/tree/master/0726-number-of-atoms) |
@@ -757,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
