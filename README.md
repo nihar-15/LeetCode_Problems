@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/nihar-15/LeetCode_Problems/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nihar-15/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nihar-15/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/nihar-15/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
@@ -753,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1090,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -1098,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 ## Trie
 |  |
