@@ -1,9 +1,6 @@
 class Solution {
     public List<List<String>> partition(String s) {
          List<List<String>> ans=new ArrayList<>();
-        
-        
-       
         List<String> path =new ArrayList<>();
         
         fun(s,ans,path,0);
