@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nihar-15/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/nihar-15/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nihar-15/LeetCode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/nihar-15/LeetCode_Problems/tree/master/0726-number-of-atoms) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/nihar-15/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nihar-15/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0518-coin-change-ii) |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/nihar-15/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0564-find-the-closest-palindrome) |
