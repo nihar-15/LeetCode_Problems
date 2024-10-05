@@ -974,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/nihar-15/LeetCode_Problems/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/nihar-15/LeetCode_Problems/tree/master/0627-swap-salary) |
+| [1135-customers-who-bought-all-products](https://github.com/nihar-15/LeetCode_Problems/tree/master/1135-customers-who-bought-all-products) |
 | [1161-project-employees-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/nihar-15/LeetCode_Problems/tree/master/1390-average-selling-price) |
