@@ -826,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nihar-15/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nihar-15/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nihar-15/LeetCode_Problems/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1694-make-sum-divisible-by-p](https://github.com/nihar-15/LeetCode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nihar-15/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -883,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nihar-15/LeetCode_Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/nihar-15/LeetCode_Problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/nihar-15/LeetCode_Problems/tree/master/1511-count-number-of-teams) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nihar-15/LeetCode_Problems/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/nihar-15/LeetCode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/nihar-15/LeetCode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
