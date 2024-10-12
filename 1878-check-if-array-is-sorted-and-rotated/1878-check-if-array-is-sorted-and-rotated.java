@@ -1,6 +1,16 @@
 class Solution {
     public boolean check(int[] nums) {
-        if(nums.length == 1){
+       int drops = 0 ;
+       for(int i = 1; i < nums.length ; i++){
+        if(nums[i-1] > nums[i]){
+            drops++;
+        }
+       }
+        if(nums[0] < nums[nums.length - 1]) drops++;
+        
+       
+        return drops <= 1;
+       /* if(nums.length == 1){
             return true;
         }
         List<Integer> numbers = new ArrayList<>();
@@ -29,5 +39,6 @@ class Solution {
        }
        System.out.println(maxSorted);
        return false ;
+       */
     }
 }
