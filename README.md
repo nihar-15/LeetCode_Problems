@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/nihar-15/LeetCode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nihar-15/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1961-maximum-ice-cream-bars](https://github.com/nihar-15/LeetCode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nihar-15/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/nihar-15/LeetCode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nihar-15/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nihar-15/LeetCode_Problems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [2803-modify-graph-edge-weights](https://github.com/nihar-15/LeetCode_Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
@@ -559,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2472-build-a-matrix-with-conditions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nihar-15/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -793,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nihar-15/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nihar-15/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -842,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nihar-15/LeetCode_Problems/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1694-make-sum-divisible-by-p](https://github.com/nihar-15/LeetCode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nihar-15/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
