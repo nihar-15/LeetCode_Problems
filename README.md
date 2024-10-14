@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nihar-15/LeetCode_Problems/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Graph
 |  |
 | ------- |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nihar-15/LeetCode_Problems/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/nihar-15/LeetCode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nihar-15/LeetCode_Problems/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
 ## Simulation
 |  |
