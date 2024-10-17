@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/nihar-15/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nihar-15/LeetCode_Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/nihar-15/LeetCode_Problems/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar-15/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/nihar-15/LeetCode_Problems/tree/master/0890-lemonade-change) |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nihar-15/LeetCode_Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/nihar-15/LeetCode_Problems/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/nihar-15/LeetCode_Problems/tree/master/0670-maximum-swap) |
 | [0866-rectangle-overlap](https://github.com/nihar-15/LeetCode_Problems/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/nihar-15/LeetCode_Problems/tree/master/0909-stone-game) |
