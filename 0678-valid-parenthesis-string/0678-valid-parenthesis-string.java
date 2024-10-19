@@ -1,29 +1,32 @@
 class Solution {
+   Map<String,Boolean> memo=new HashMap();
     public boolean checkValidString(String s) {
-      Boolean dp[][][] = new Boolean[s.length()][s.length()][s.length()];
-        return func(s, 0, 0, 0, dp);
+         return helper(s,0,0);
     }
-
-    boolean func(String s, int open, int star, int idx, Boolean[][][] dp) {
-        if (open < 0) {
-            return false; 
+    public boolean helper(String s, int i,int bal){
+        if(i==s.length()){
+            if(bal==0){
+                return true;
+            }
+            return false;
         }
-        if (idx >= s.length()) {
-            return open == 0; 
+        if(bal<0){
+            return false;
         }
-        if (dp[open][star][idx] != null) {
-            return dp[open][star][idx];
+        String k= bal+":"+i;
+        if(memo.containsKey(k)){
+            return memo.get(k);
         }
-        if (s.charAt(idx) == '(') {
-            return dp[open][star][idx] = func(s, open + 1, star, idx + 1, dp);
+        boolean ans=false;
+        if(s.charAt(i)=='('){
+            ans= helper(s,i+1,bal+1);
+        }else if (s.charAt(i)==')'){
+            ans= helper(s,i+1,bal-1);
+        }else if (s.charAt(i)=='*'){
+            ans=helper(s,i+1,bal+1) || helper(s,i+1,bal-1) || helper(s,i+1,bal);
         }
-        if (s.charAt(idx) == ')') {
-            return dp[open][star][idx] = func(s, open - 1, star, idx + 1, dp);
-        }
-        // If it's '*', try all possibilities 
-        return dp[open][star][idx] = (func(s, open + 1, star, idx + 1, dp) ||  
-                                      func(s, open - 1, star, idx + 1, dp) || 
-                                      func(s, open, star + 1, idx + 1, dp));
+        memo.put(k,ans);
+        return ans;
     }
 }
 
