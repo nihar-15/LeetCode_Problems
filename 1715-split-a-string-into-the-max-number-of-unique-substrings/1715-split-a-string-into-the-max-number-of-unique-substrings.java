@@ -1,9 +1,9 @@
 class Solution {
     public int maxUniqueSplit(String s) {
-     return backtrack(s, new HashSet<>(), 0);
+     return func(s, new HashSet<>(), 0);
     }
 
-    private int backtrack(String s, Set<String> set, int start) {
+    private int func(String s, Set<String> set, int start) {
         if (start == s.length()) {
             return 0; 
         }
@@ -15,7 +15,7 @@ class Solution {
             
             if (!set.contains(subStr)) {
                 set.add(subStr);
-                maxSplits = Math.max(maxSplits, 1 + backtrack(s, set, end));
+                maxSplits = Math.max(maxSplits, 1 + func(s, set, end));
                 
                 set.remove(subStr); 
             }
