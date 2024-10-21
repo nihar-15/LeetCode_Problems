@@ -518,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/nihar-15/LeetCode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-max-consecutive-ones-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nihar-15/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/nihar-15/LeetCode_Problems/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -832,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/nihar-15/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nihar-15/LeetCode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nihar-15/LeetCode_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar-15/LeetCode_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -856,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-max-consecutive-ones-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -866,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-max-consecutive-ones-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nihar-15/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nihar-15/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
