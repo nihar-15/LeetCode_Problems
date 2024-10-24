@@ -705,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/nihar-15/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/nihar-15/LeetCode_Problems/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1236,6 +1237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
