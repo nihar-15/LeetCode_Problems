@@ -1,24 +1,13 @@
 class Solution {
     public int rob(int[] nums) {
-        int dp[] = new int[nums.length+1];
-        Arrays.fill(dp , -1);
-        return func(nums, 0 , dp);
-    }
-    int func(int nums[] , int idx , int dp[]){
-        if(idx >= nums.length){
-            return 0;
+        int n = nums.length ;
+        int dp[] = new int[n];
+        dp[0] = Math.max(0 , nums[0]);
+        dp[1] = Math.max(nums[0] , Math.max(nums[1] , 0) );
+
+        for(int i = 2 ; i < n ; i++){
+            dp[i] = Math.max(dp[i-1] , dp[i-2] + nums[i]);
         }
-        if(idx == nums.length -1){
-            return nums[idx];
-        }
-        if(dp[idx] != -1){
-            return dp[idx];
-        }
-        int take = nums[idx] + func(nums, idx+2 , dp);
-        int notTake = Integer.MIN_VALUE;
-        if(idx + 1 < nums.length){
-             notTake = func(nums , idx + 1 , dp);
-        }
-        return dp[idx] = Math.max(take , notTake);
+        return dp[n-1];
     }
 }
