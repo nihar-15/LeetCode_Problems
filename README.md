@@ -606,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nihar-15/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/nihar-15/LeetCode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nihar-15/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nihar-15/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/nihar-15/LeetCode_Problems/tree/master/3394-minimum-array-end) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -894,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nihar-15/LeetCode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
