@@ -582,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nihar-15/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nihar-15/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nihar-15/LeetCode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nihar-15/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nihar-15/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nihar-15/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nihar-15/LeetCode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Queue
