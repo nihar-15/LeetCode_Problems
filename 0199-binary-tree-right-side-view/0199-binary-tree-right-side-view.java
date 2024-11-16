@@ -1,34 +1,27 @@
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-    List<Integer>  ans = new ArrayList<>();
-    if(root == null){
-        return ans ;
-    }
-    Map<Integer, TreeNode> map = new TreeMap<>();
-      Queue<TreeNode>  q = new LinkedList<>();
-      q.offer(root);
-      map.put(0 , root);
-      while(!q.isEmpty()){
-         TreeNode curr = q.poll();
-         int level =0 ;
-         for (Map.Entry<Integer, TreeNode> entry : map.entrySet()) {
-                if (entry.getValue() == curr) {
-                    level = entry.getKey();
-                    break;
+    List<Integer> ans = new ArrayList<>();
+        if(root==null){
+            return ans;
+        }
+        Queue<TreeNode> q=new LinkedList();
+        q.add(root);
+        while(!q.isEmpty()){
+            List<Integer> temp = new ArrayList<>();
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode a=q.poll();
+                temp.add(a.val);
+                if(a.left!=null){
+                    q.add(a.left);
+                }
+                if(a.right!=null){
+                    q.add(a.right);
                 }
             }
-         if(curr.left != null){
-            q.offer(curr.left);
-            map.put(level - 1, curr.left);
-         }
-          if(curr.right != null){
-            q.offer(curr.right);
-            map.put(level + 1, curr.right);
-         }
-      }
-      for(Integer key : map.keySet()){
-        ans.add(map.get(key).val);
-      }
-      return ans ;
+            Collections.reverse(temp);
+            ans.add(temp.get(0));
+        }
+        return ans;
     }
 }
