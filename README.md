@@ -494,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/nihar-15/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/nihar-15/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nihar-15/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihar-15/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/nihar-15/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
+| [0525-contiguous-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nihar-15/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
@@ -910,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nihar-15/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/0878-shifting-letters) |
