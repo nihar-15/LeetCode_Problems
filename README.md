@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nihar-15/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nihar-15/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nihar-15/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nihar-15/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nihar-15/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/nihar-15/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nihar-15/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
