@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/nihar-15/LeetCode_Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nihar-15/LeetCode_Problems/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Simulation
 |  |
 | ------- |
