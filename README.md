@@ -602,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nihar-15/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nihar-15/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nihar-15/LeetCode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nihar-15/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nihar-15/LeetCode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/nihar-15/LeetCode_Problems/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nihar-15/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
@@ -780,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nihar-15/LeetCode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/nihar-15/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/nihar-15/LeetCode_Problems/tree/master/2580-circular-sentence) |
@@ -891,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/nihar-15/LeetCode_Problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nihar-15/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nihar-15/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nihar-15/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
