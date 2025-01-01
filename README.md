@@ -799,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nihar-15/LeetCode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nihar-15/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nihar-15/LeetCode_Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/nihar-15/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
@@ -1008,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/nihar-15/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nihar-15/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nihar-15/LeetCode_Problems/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/nihar-15/LeetCode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/nihar-15/LeetCode_Problems/tree/master/1940-maximum-xor-for-each-query) |
