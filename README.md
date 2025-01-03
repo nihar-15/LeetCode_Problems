@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/nihar-15/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nihar-15/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1014,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/nihar-15/LeetCode_Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/nihar-15/LeetCode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nihar-15/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/nihar-15/LeetCode_Problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3427-special-array-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3427-special-array-ii) |
