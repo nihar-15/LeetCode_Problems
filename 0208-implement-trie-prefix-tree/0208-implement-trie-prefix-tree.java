@@ -1,48 +1,59 @@
 class Trie {
-   class TrieNode{
-        boolean isEnd;
-        TrieNode arr[] =new TrieNode[26];
+    static class TrieNode{
+     TrieNode children[];
+     boolean isEndOfWord; 
+
+     TrieNode(){
+        children = new TrieNode[26];
+        isEndOfWord = false;
+     }
     }
-    TrieNode root;
+    private TrieNode root;
     public Trie() {
         root = new TrieNode();
     }
-    
-    public void insert(String word) {
-        TrieNode node = root;
-        for(int i=0;i<word.length();i++){
-            char ch =word.charAt(i);
-            if(node.arr[ch-'a']==null){
-                TrieNode curr = new TrieNode(); 
-                node.arr[ch-'a']=curr;
-            }
-            node=node.arr[ch-'a'];
-        }
-        node.isEnd =true;
+     private TrieNode getNode() {
+        return new TrieNode();
     }
+    public void insert(String word) {
+        TrieNode crawler = root;
+        for(int i = 0 ; i < word.length() ; i++){
+            int index = word.charAt(i) - 'a';
+            if(crawler.children[index] == null){
+                 crawler.children[index] = getNode();
+            }
+            crawler = crawler.children[index];
+            
+        }
+            crawler.isEndOfWord = true;
+        
+    }
+
     
     public boolean search(String word) {
-        TrieNode node = root;
-        for(int i=0;i<word.length();i++){
-            char ch =word.charAt(i);
-            if(node.arr[ch-'a']==null){
+         TrieNode crawler = root;
+        for(int i = 0 ; i < word.length() ; i++){
+            int index = word.charAt(i) - 'a';
+            if(crawler.children[index] == null){
                 return false;
             }
-            node =node.arr[ch-'a'];
+            crawler = crawler.children[index];
         }
-        return node.isEnd;
+        return   crawler != null && crawler.isEndOfWord;
     }
     
-    public boolean startsWith(String prefix) { 
-        TrieNode node = root;
-        for(int i=0;i<prefix.length();i++){
-            char ch =prefix.charAt(i);
-            if(node.arr[ch-'a']==null){
+    public boolean startsWith(String prefix) {
+         TrieNode crawler = root;
+        int i = 0;
+        for (i = 0; i < prefix.length(); i++) {
+            int index = prefix.charAt(i) - 'a';
+
+            if (crawler.children[index] == null)
                 return false;
-            }
-            node =node.arr[ch-'a'];
+
+            crawler = crawler.children[index];
         }
-        return true;
+        return i == prefix.length();
     }
 }
 
