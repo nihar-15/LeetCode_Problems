@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/nihar-15/LeetCode_Problems/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/nihar-15/LeetCode_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nihar-15/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/nihar-15/LeetCode_Problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/nihar-15/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/nihar-15/LeetCode_Problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/nihar-15/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nihar-15/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/nihar-15/LeetCode_Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nihar-15/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -1052,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nihar-15/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/nihar-15/LeetCode_Problems/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nihar-15/LeetCode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nihar-15/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0213-house-robber-ii) |
@@ -1264,6 +1268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/nihar-15/LeetCode_Problems/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nihar-15/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
@@ -1422,6 +1427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nihar-15/LeetCode_Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/nihar-15/LeetCode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
