@@ -1,63 +1,58 @@
-class Trie {
+class TrieNode {
+    TrieNode[] children;
+    boolean isEndOfWord;
+    int count;
 
-    static class TrieNode {
-        TrieNode[] children;
-        boolean isEndOfWord;
-
-        TrieNode() {
-            children = new TrieNode[26];
-            isEndOfWord = false;
-        }
-    }
-
-    private TrieNode getNode() {
-        return new TrieNode();
-    }
-
-    private TrieNode root;
-
-    Trie() {
-        root = getNode();
-    }
-
-    public void insert(String word) {
-        TrieNode crawler = root;
-        for (int i = 0; i < word.length(); i++) {
-            int index = word.charAt(i) - 'a';
-            if (crawler.children[index] == null) {
-                crawler.children[index] = getNode();
-            }
-            crawler = crawler.children[index];
-        }
-        crawler.isEndOfWord = true;
-    }
-
-    public boolean startsWith(String prefix) {
-        TrieNode crawler = root;
-        for (int i = 0; i < prefix.length(); i++) {
-            int index = prefix.charAt(i) - 'a';
-            if (crawler.children[index] == null)
-                return false;
-
-            crawler = crawler.children[index];
-        }
-        return true;
+    TrieNode() {
+        children = new TrieNode[26];
+        isEndOfWord = false;
+        count = 0;
     }
 }
+
+class Trie {
+    TrieNode root;
+
+    Trie() {
+        root = new TrieNode();
+    }
+
+    void insert(String word) {
+        TrieNode pCrawl = root;
+        for(char ch : word.toCharArray()) {
+            int idx = ch - 'a';
+            if(pCrawl.children[idx] == null) {
+                pCrawl.children[idx] = new TrieNode();
+            }
+            pCrawl = pCrawl.children[idx];
+            pCrawl.count++;
+        }
+        pCrawl.isEndOfWord = true;
+    }
+
+    int searchPrefixCount(String pref) {
+        TrieNode pCrawl = root;
+        for(char ch : pref.toCharArray()) {
+            int idx = ch - 'a';
+            if(pCrawl.children[idx] == null) {
+                return 0;
+            }
+            pCrawl = pCrawl.children[idx];
+        }
+
+        return pCrawl.count;
+    }
+}
+
 
 class Solution {
     public int prefixCount(String[] words, String pref) {
         Trie trie = new Trie();
-        for (String word : words) {
+
+        for(String word : words) {
             trie.insert(word);
         }
 
-        int count = 0;
-        for (String word : words) {
-            if (word.startsWith(pref)) {
-                count++;
-            }
-        }
-        return count;
+        return trie.searchPrefixCount(pref);
     }
 }
