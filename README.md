@@ -546,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/nihar-15/LeetCode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/nihar-15/LeetCode_Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/nihar-15/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0983-validate-stack-sequences) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/nihar-15/LeetCode_Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/nihar-15/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nihar-15/LeetCode_Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/nihar-15/LeetCode_Problems/tree/master/1044-find-common-characters) |
@@ -895,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/nihar-15/LeetCode_Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nihar-15/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/nihar-15/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
