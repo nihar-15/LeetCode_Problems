@@ -854,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-score-of-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/nihar-15/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/3540-hash-divided-string) |
 ## Bit Manipulation
@@ -941,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/nihar-15/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -1368,6 +1370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/nihar-15/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
 | ------- |
