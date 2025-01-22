@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1731-even-odd-tree) |
+| [1876-map-of-highest-peak](https://github.com/nihar-15/LeetCode_Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/nihar-15/LeetCode_Problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nihar-15/LeetCode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nihar-15/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -609,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/nihar-15/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1876-map-of-highest-peak](https://github.com/nihar-15/LeetCode_Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nihar-15/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nihar-15/LeetCode_Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nihar-15/LeetCode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1287,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nihar-15/LeetCode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/nihar-15/LeetCode_Problems/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/nihar-15/LeetCode_Problems/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/nihar-15/LeetCode_Problems/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/2089-maximum-matrix-sum) |
