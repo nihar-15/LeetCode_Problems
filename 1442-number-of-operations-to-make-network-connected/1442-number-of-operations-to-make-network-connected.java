@@ -20,13 +20,13 @@ class Solution {
         for(int i = 0 ; i < n ; i++){
             parent[i] = i;
         }
-        int connected = n;
+        
         for(int edge[] : connections){
             if(find(edge[0]) != find(edge[1])){
                 union(edge[0] , edge[1]);
-                connected --;
+                n --;
             }
         }
-        return connected -1;
+        return n - 1;
     }
 }
