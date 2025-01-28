@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nihar-15/LeetCode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nihar-15/LeetCode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nihar-15/LeetCode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3486-count-the-number-of-good-nodes](https://github.com/nihar-15/LeetCode_Problems/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nihar-15/LeetCode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nihar-15/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2725-mice-and-cheese](https://github.com/nihar-15/LeetCode_Problems/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/nihar-15/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nihar-15/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nihar-15/LeetCode_Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1246,6 +1249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/nihar-15/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nihar-15/LeetCode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/nihar-15/LeetCode_Problems/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nihar-15/LeetCode_Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
@@ -1320,6 +1324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
