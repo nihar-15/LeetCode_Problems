@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nihar-15/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/nihar-15/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/nihar-15/LeetCode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihar-15/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/nihar-15/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/nihar-15/LeetCode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihar-15/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/nihar-15/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1240,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nihar-15/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
