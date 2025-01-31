@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/nihar-15/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar-15/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/nihar-15/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nihar-15/LeetCode_Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0854-making-a-large-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/nihar-15/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
@@ -1247,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/nihar-15/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nihar-15/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/nihar-15/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nihar-15/LeetCode_Problems/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -1305,6 +1309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nihar-15/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/nihar-15/LeetCode_Problems/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/nihar-15/LeetCode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/nihar-15/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
