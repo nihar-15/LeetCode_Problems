@@ -750,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nihar-15/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/nihar-15/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -777,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nihar-15/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nihar-15/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/nihar-15/LeetCode_Problems/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/nihar-15/LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -901,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nihar-15/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nihar-15/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/nihar-15/LeetCode_Problems/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/nihar-15/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/nihar-15/LeetCode_Problems/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/nihar-15/LeetCode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nihar-15/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
