@@ -1,37 +1,36 @@
 class Trie {
-    static class TrieNode{
-     TrieNode children[];
-     boolean isEndOfWord; 
+    class TrieNode{
+        TrieNode []children;
+        boolean isEndOfWord;
+        TrieNode(){
+            children = new TrieNode[26];
+            isEndOfWord = false;
+        }
+    }
+    TrieNode root;
 
-     TrieNode(){
-        children = new TrieNode[26];
-        isEndOfWord = false;
-     }
-    }
-    private TrieNode root;
-    public Trie() {
-        root = new TrieNode();
-    }
-     private TrieNode getNode() {
+    private TrieNode getNode(){
         return new TrieNode();
     }
+
+    public Trie() {
+          root =  new TrieNode();    
+    }
+    
     public void insert(String word) {
-        TrieNode crawler = root;
+        TrieNode crawler = root ;
         for(int i = 0 ; i < word.length() ; i++){
             int index = word.charAt(i) - 'a';
             if(crawler.children[index] == null){
-                 crawler.children[index] = getNode();
+                crawler.children[index] = getNode();
             }
             crawler = crawler.children[index];
-            
         }
-            crawler.isEndOfWord = true;
-        
+        crawler.isEndOfWord = true;
     }
-
     
     public boolean search(String word) {
-         TrieNode crawler = root;
+       TrieNode crawler = root;
         for(int i = 0 ; i < word.length() ; i++){
             int index = word.charAt(i) - 'a';
             if(crawler.children[index] == null){
