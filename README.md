@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar-15/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nihar-15/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nihar-15/LeetCode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/nihar-15/LeetCode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/nihar-15/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nihar-15/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nihar-15/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nihar-15/LeetCode_Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nihar-15/LeetCode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -991,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/nihar-15/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nihar-15/LeetCode_Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1364-tuple-with-same-product](https://github.com/nihar-15/LeetCode_Problems/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nihar-15/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nihar-15/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/nihar-15/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -1242,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/nihar-15/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nihar-15/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1271,6 +1275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/nihar-15/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nihar-15/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nihar-15/LeetCode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/nihar-15/LeetCode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1731-even-odd-tree) |
@@ -1496,6 +1501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/nihar-15/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/nihar-15/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/nihar-15/LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nihar-15/LeetCode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nihar-15/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/nihar-15/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/nihar-15/LeetCode_Problems/tree/master/2434-design-a-number-container-system) |
